@@ -7,7 +7,7 @@
 - 📫 How to reach me:  
     - Email: [komila745@gmail.com](mailto:komila745@gmail.com) 
 ## More About Me:
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She
 - ⚡ Fun fact: I’m passionate about coding, anime, and creating projects that solve real-world problems.
 
 Feel free to check out my repositories and connect with me! 🚀
