@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @TKomila
+# 👋 Hi, I’m @Komila
 
 ## About Me:
 - 👀 I’m interested in programming, web development, and IT.
@@ -12,7 +12,3 @@
 
 Feel free to check out my repositories and connect with me! 🚀
 
-<!---
-TKomila/TKomila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
